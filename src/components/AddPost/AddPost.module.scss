@@ -1,0 +1,15 @@
+.wrapper {
+    margin: 0 0 50px 10px;
+    form {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(auto);
+        justify-items: flex-start;
+        div {
+            width: 100%;
+        }
+    }
+    h3 {
+        margin-top: 0;
+    }
+}

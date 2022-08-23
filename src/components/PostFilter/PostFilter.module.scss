@@ -1,0 +1,7 @@
+.wrap {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    margin-top: 50px;
+    align-items: center;
+    gap: 50px;
+}
